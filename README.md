@@ -26,7 +26,7 @@ You can change to the debug aar if you want to see some logs of what is happenin
 Make sure the file build.gradle of your main app module contains the following:
 ```groovy
  compile project(path: ':mubi-webviewsdk')
-``` 
+```
 
 How does the webview SDK work
 -----------------------------
