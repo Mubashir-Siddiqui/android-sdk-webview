@@ -8,7 +8,7 @@ You need to add the aar to you project. If you are using gradle you can take an 
 structure to see how the dependency has been handled.
 
 ###In details: 
- 
+  
 There are 2 aar in the mubi-webviewsdk module in this project:
 * webviewsdk-prod-release.aar
 * webviewsdk-prod-debug.aar (contains extra logs that the release don't record)
