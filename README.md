@@ -1,7 +1,7 @@
 android-sdk-webview 
 ===================
 A simple application that uses the android webview sdk to integrate the connect flow within an app
-
+ 
 How to add the dependency to your project
 ----------------------------------------- 
 You need to add the aar to you project. If you are using gradle you can take an example at this app
